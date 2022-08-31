@@ -1,7 +1,5 @@
 ### Olá, me chamo Carlos Eduardo!
-
-- 🔭 Atualmente trabalho numa empresa de informática
-- 🌱 Estou aprendendo HTML, CSS e JavaScript!
+🌱 Aprendendo um pouco do mundo do front :)
 <div>
   <a href="https://github.com/carloskyle">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloskyle&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
