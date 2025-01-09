@@ -1,5 +1,5 @@
-### Olá, me chamo Carlos!
-Aprendendo um pouco do mundo do desenvolvimento e CyberSecurity.
+### Hi, i'm Carlos!
+Learning about the world of CyberSecurity and Development.
 
 <div>
   <a href="https://github.com/carloskyle">
